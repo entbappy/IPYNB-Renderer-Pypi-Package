@@ -36,13 +36,13 @@ pip install ipynbRenderer73
 
 ## Rendering Youtube videos
 
-??? note "example"
-    ### Short example
-    ```python
-    from IPYNBrenderer import render_YouTube_video
-    URL = "https://youtu.be/roO5VGxOw2s"
-    render_YouTube_video(URL=URL, width = 780, height = 480)
-    ```
+"example"
+
+```python
+from IPYNBrenderer import render_YouTube_video
+URL = "https://youtu.be/roO5VGxOw2s"
+render_YouTube_video(URL=URL, width = 780, height = 480)
+```
 
 | Args   | Type | Description | 
 |:--------:|:------:|:-------|
@@ -57,13 +57,13 @@ pip install ipynbRenderer73
 
 ## Rendering reference website
 
-??? note "example"
-    ### Short example
-    ```python
-    from IPYNBrenderer import render_site
-    URL = "http://pytorch.org/"
-    render_site(URL = URL, width = "90%", height = "500")
-    ```
+"example"
+  
+```python
+from IPYNBrenderer import render_site
+URL = "http://pytorch.org/"
+render_site(URL = URL, width = "90%", height = "500")
+```
 
 | Args   | Type | Description | 
 |:--------:|:------:|:-------|
