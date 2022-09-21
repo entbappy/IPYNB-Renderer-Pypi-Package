@@ -16,4 +16,4 @@ logging.basicConfig(
     ],
 )
 
-logger = logging.getLogger("ipynbRenderer")
+logger = logging.getLogger("ipynbRenderer73")
