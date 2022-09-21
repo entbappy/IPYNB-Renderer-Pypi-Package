@@ -26,10 +26,10 @@ pip install ipynbRenderer73
 
 # Demo:
 ## For Youtube videos
-<img src="docs/1.png" alt="workflow" width="70%">
+<img src="docs/1.png" alt="workflow" width="90%">
 
 ## For Websites
-<img src="docs/2.png" alt="workflow" width="70%">
+<img src="docs/2.png" alt="workflow" width="90%">
 
 
 
