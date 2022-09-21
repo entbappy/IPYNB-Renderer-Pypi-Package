@@ -39,7 +39,7 @@ pip install ipynbRenderer73
 "example"
 
 ```python
-from IPYNBrenderer import render_YouTube_video
+from ipynbRenderer73 import render_YouTube_video
 URL = "https://youtu.be/roO5VGxOw2s"
 render_YouTube_video(URL=URL, width = 780, height = 480)
 ```
@@ -60,7 +60,7 @@ render_YouTube_video(URL=URL, width = 780, height = 480)
 "example"
   
 ```python
-from IPYNBrenderer import render_site
+from ipynbRenderer73 import render_site
 URL = "http://pytorch.org/"
 render_site(URL = URL, width = "90%", height = "500")
 ```
